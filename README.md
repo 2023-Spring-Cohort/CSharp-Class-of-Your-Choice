@@ -14,7 +14,7 @@ Here are some ideas for classes, properties and methods. Use one of these ideas 
 - Cookie Order Class: cookie name, cookie description, number cookies ordered, cost per cookie, calculate total cost, delivery date, show days until delivery, show order details
 
 ## Instructions
-Add a Program.cs class to contain your console application. Then, make a basic UI that allows for user interaction through the various methods you've outlined. 
+Create a Console applicatio and add a Program.cs class to contain your console application. Then, make a basic UI that allows for user interaction through the various methods you've outlined. 
 
 Start by thinking about your main menu options. What actions do you want the user to be able to take?
 
