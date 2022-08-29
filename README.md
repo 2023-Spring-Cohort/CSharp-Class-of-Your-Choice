@@ -2,7 +2,7 @@
 Class of Choice is a Console App that allows a user to interact with a class of your creation. You get to decide what you want to build! Then, when your application is complete, you will have written a class that gives your object appropriate state and behavior, and a way for the user to interact with it.
 
 ## Setup
-Spend some time thinking about the features your Class of Choice will have. Draw out a class diagram to identify your class's properties and methods. Your class should have at least 3 properties, a constructor, and two additional methods that manipulate properties of the class.
+Spend some time thinking about the features your Class of Choice will have. Draw out a class diagram to identify your class's properties and methods. Your class should have at least 3 properties, a constructor, and two additional methods that manipulate properties of the class. Choose an 'object' type that has many, clearly-defined characteristics.
 
 Here are some ideas for classes, properties and methods. Use one of these ideas as a starting point, or make up your own:
 
